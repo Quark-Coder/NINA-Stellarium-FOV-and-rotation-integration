@@ -17,7 +17,7 @@ Enable the two functions shown in the image. Make sure that the port is 1888:
 
 Install the [ASCOM](https://ascom-standards.org/Downloads/Index.htm)  driver if it is not already installed.
 
-Enable Oculars, Telescope Control and Remote Control
+Enable Oculars, Telescope Control and Remote Control in Stellarium
 
 ![stellarium_jcbXlDSCY8](https://github.com/user-attachments/assets/d1e86ee2-c522-49a6-9e73-ecf6b1fad407)
 
