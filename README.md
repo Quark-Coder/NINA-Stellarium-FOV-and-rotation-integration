@@ -13,7 +13,7 @@ Open NINA plugin manager and install Advanced API plugin.
 Enable the two functions shown in the image. Make sure that the port is 1888:
 ![NINA_f90cC7Ki0k](https://github.com/user-attachments/assets/2f6436b9-37eb-4947-8f25-9bb4af2db9a9)
 
-Install the ASCOM [ASCOM](https://ascom-standards.org/Downloads/Index.htm)  driver if it is not already installed.
+Install the [ASCOM](https://ascom-standards.org/Downloads/Index.htm)  driver if it is not already installed.
 
 Enable Oculars, Telescope Control and Remote Control
 ![stellarium_jcbXlDSCY8](https://github.com/user-attachments/assets/d1e86ee2-c522-49a6-9e73-ecf6b1fad407)
