@@ -23,6 +23,11 @@ Enable Oculars, Telescope Control and Remote Control
 
 Add your telescope and camera to the Oculars plugin. Remember their numbers.
 
+To display the angles correctly, select the Equatorial mount in the telescope.
+
+![stellarium_W7QlqQfAi3](https://github.com/user-attachments/assets/25ec7e4f-927b-4279-835c-6e4f7b242ec2)
+
+
 Add new telescope to the Telescope Control plugin.
 
 ![stellarium_5Io796adL4](https://github.com/user-attachments/assets/970e5769-5fad-4f36-8dae-dcf3227a270a)
